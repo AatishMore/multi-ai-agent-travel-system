@@ -1,4 +1,3 @@
-# multi-ai-agent-travel-system
 # Multi AI Agent Travel System
 
 An intelligent multi-agent AI system built using Streamlit and LangChain that generates complete travel plans using a structured workflow.
